@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap');
+@import url("//cdn.web-fonts.ge/fonts/bpg-extrasquare/css/bpg-extrasquare.min.css");
+@import url("//cdn.web-fonts.ge/fonts/arial-geo/css/arial-geo.min.css");
 
 
 a{
@@ -12,7 +14,7 @@ header{
 }
 .nav-link{
   color: #BBBBCB;
-  font-family: 'Poppins', sans-serif;
+  font-family: "BPG ExtraSquare", sans-serif;
   font-size: 16px;
   font-weight: 500;
   padding: 18px;
@@ -27,7 +29,7 @@ header{
 
 .cntct{
   color: var(--White, #FFF);
-  font-family: 'Poppins', sans-serif;
+  font-family: "BPG ExtraSquare", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 28px;
@@ -40,7 +42,7 @@ header{
 }
 .teqsti h1{
   color: var(--White, #FFF);
-  font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
   font-size: 54px;
   font-weight: 600;
 }
@@ -49,10 +51,11 @@ header{
 }
 .btn2{
   color: white;
+  font-family: "BPG ExtraSquare", sans-serif;
 }
 .teqsti p{
   color: var(--White, #FFF);
-  font-family: 'Poppins', sans-serif;
+  font-family: "Arial GEO", sans-serif;
   font-size: 16px;
   font-weight: 500;
 }
@@ -62,9 +65,51 @@ header{
 .ngl2{
   margin-top: 112px;
 }
+.beber p{
+  font-family: "Arial GEO", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #282938;
+}
+
+.bebee{
+  font-family: "Arial GEO", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+.txtc p{
+font-family: "Arial GEO", sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: #282938;
+}
+.bege{
+  color: #282938;
+  font-family: "Arial GEO", sans-serif;
+font-size: 16px;
+font-weight: 500;
+}
+.padd p{
+  color: #282938;
+font-size: 16px;
+font-weight: 400;
+font-family: "Arial GEO", sans-serif;
+}
+.firstpg h1{
+  font-family: "BPG ExtraSquare", sans-serif;
+}
+.firstpg a{
+  font-family: "Arial GEO", sans-serif;
+}
+.sbm{
+  color: #282938;
+font-size: 24px;
+font-weight: 500;
+font-family: "BPG ExtraSquare", sans-serif;
+}
 .viewow{
   color: #1B1C2B;
-  font-family: 'Manrope', sans-serif;
+  font-family: "Arial GEO", sans-serif;
   font-size: 18px;
   font-weight: 600;
   border-radius: 41px;
@@ -163,7 +208,7 @@ header{
 .satauri11 h1{
 color: var(--Dark-blue, #282938);
 text-align: center;
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 48px;
 font-weight: 600;
 max-width: 630px;
@@ -174,7 +219,7 @@ padding-bottom: 47px;
 .satauri11 small{
 color: var(--Dark-blue, #282938);
 text-align: center;
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 16px;
 font-weight: 500;
 }
@@ -202,13 +247,13 @@ font-weight: 500;
 .padd h3{
   padding-bottom: 12px;
   color: var(--Dark-blue, #282938);
-  font-family: 'Poppins', sans-serif;
-font-size: 24px;
+font-family: "BPG ExtraSquare", sans-serif;
+  font-size: 24px;
 font-weight: 500;
 }
 .padd p{
 color: var(--Dark-blue, #282938);
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 16px;
 font-weight: 400;
 }
@@ -229,13 +274,13 @@ font-weight: 400;
 }
 .flexibx h1{
 color: var(--Dark-blue, #282938);
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 38px;
 font-weight: 600;
 }
 .flexibx p{
 color: var(--Dark-blue, #282938);
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 16px;
 font-weight: 400;
 margin-top: 16px;
@@ -247,7 +292,7 @@ margin-top: 16px;
 }
 .flexibx2 h2{
 color: var(--Dark-blue, #282938);
-font-family: 'Poppins', sans-serif;
+font-family: "BPG ExtraSquare", sans-serif;
 font-size: 32px;
 font-weight: 500;
 }
@@ -278,6 +323,7 @@ font-weight: 500;
 .txtssome p{
   margin-top: 0;
   margin-bottom: 5px;
+  font-family: "Arial GEO", sans-serif;
 }
 .txtssome{
   margin-left: 10px;
@@ -303,12 +349,44 @@ background-color: white !important;
 }
 
 .nebo{
-  margin-right: 126px;
+  padding-right: 126px;
 }
 
 .blck{
   border: 0px;
   border-bottom: 2px solid #ECECF1 !important;
+}
+
+.backgr{
+  background-image: url(../img/30732f1e32bd56f48c9445a26c0f29ba.jpg);
+  
+  
+}
+.backgr2{
+  background-color: #1C1E53;
+}
+.backgr h1{
+  margin-bottom: 24px;
+  color: white;
+font-size: 54px;
+font-weight: 600;
+font-family: "BPG ExtraSquare", sans-serif;
+}
+.backgr p {
+  color: white;
+font-size: 16px;
+font-family: "Arial GEO", sans-serif;
+font-weight: 500;
+
+}
+.textebi{
+  margin: auto;
+  width: 464px;
+  margin-top: 96px;
+  margin-bottom: 261px;
+}
+.aeeee{
+  margin-top: 128px;
 }
 
 
