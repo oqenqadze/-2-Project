@@ -356,14 +356,14 @@ background-color: white !important;
   border: 0px;
   border-bottom: 2px solid #ECECF1 !important;
 }
-
 .backgr{
-  background-image: url(../img/30732f1e32bd56f48c9445a26c0f29ba.jpg);
-  
-  
+  background: url(../img/30732f1e32bd56f48c9445a26c0f29ba.jpg);
 }
 .backgr2{
   background-color: #1C1E53;
+  padding-top: 96px;
+  padding-left: 96px;
+  padding-right: 96px;
 }
 .backgr h1{
   margin-bottom: 24px;
@@ -380,13 +380,58 @@ font-weight: 500;
 
 }
 .textebi{
-  margin: auto;
   width: 464px;
   margin-top: 96px;
+  margin-left: 96px;
   margin-bottom: 261px;
+}
+.textebi2{
+  color: white;
+  margin-bottom: 30px;
+}
+.textebi2 h2{
+  font-family: "BPG ExtraSquare", sans-serif;
+font-size: 32px;
+font-weight: 500;
+}
+.textebi2 p{
+  font-family: "Arial GEO", sans-serif;
 }
 .aeeee{
   margin-top: 128px;
+}
+.inpts input{
+  padding: 18px 0px 18px 32px;
+  background-color: #1C1E53;
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  border: 1.5px solid #ffffff0d;
+  color: #F4F6FC;
+  opacity: 0.5;
+}
+.butoni button{
+  width: 100%;
+  padding: 15px 51px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 41px;
+  background-color: #FCD980;
+  color: #1B1C2B;
+  font-family: "BPG ExtraSquare", sans-serif;
+font-size: 18px;
+font-weight: 600;
+margin-bottom: 28px;
+}
+.butoni a{
+  margin-left: 94px;
+  color: white;
+  font-family: "Arial GEO", sans-serif;
+font-size: 18px;
+font-weight: 500;
+}
+.butoni a img{
+  padding-left: 5px;
 }
 
 
